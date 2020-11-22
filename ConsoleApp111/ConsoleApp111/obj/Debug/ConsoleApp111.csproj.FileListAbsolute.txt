@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\ConsoleApp111\ConsoleApp111\obj\Debug\ConsoleApp111.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ConsoleApp111\ConsoleApp111\obj\Debug\ConsoleApp111.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ConsoleApp111\ConsoleApp111\bin\Debug\ConsoleApp111.exe.config
+C:\Users\User\Desktop\ConsoleApp111\ConsoleApp111\bin\Debug\ConsoleApp111.exe
+C:\Users\User\Desktop\ConsoleApp111\ConsoleApp111\bin\Debug\ConsoleApp111.pdb
+C:\Users\User\Desktop\ConsoleApp111\ConsoleApp111\obj\Debug\ConsoleApp111.exe
+C:\Users\User\Desktop\ConsoleApp111\ConsoleApp111\obj\Debug\ConsoleApp111.pdb
+C:\Users\Home\Desktop\ConsoleApp111\ConsoleApp111\obj\Debug\ConsoleApp111.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\ConsoleApp111\ConsoleApp111\obj\Debug\ConsoleApp111.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\ConsoleApp111\ConsoleApp111\obj\Debug\ConsoleApp111.exe
+C:\Users\Home\Desktop\ConsoleApp111\ConsoleApp111\obj\Debug\ConsoleApp111.pdb
+C:\Users\Home\Desktop\ConsoleApp111\ConsoleApp111\bin\Debug\ConsoleApp111.exe.config
+C:\Users\Home\Desktop\ConsoleApp111\ConsoleApp111\bin\Debug\ConsoleApp111.exe
+C:\Users\Home\Desktop\ConsoleApp111\ConsoleApp111\bin\Debug\ConsoleApp111.pdb
